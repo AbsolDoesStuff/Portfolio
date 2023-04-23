@@ -1,0 +1,1 @@
+The code that put this site together is consistent of small amounts of it. There is an HTML file and a CSS file implemented within it. For the most part, the basics have been used as it has been dificult to achieve anything past that. The main point of the website is to be a portfolio site for the general public to view.

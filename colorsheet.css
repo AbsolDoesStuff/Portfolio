@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(155, 200, 227);
+    background-image: url(file:///C:/Users/Absol/OneDrive/Desktop/HTML%20Proj/New%20Project.png);
+    color: black;
+    margin:0;
+    font-family: sans-serif;
+    border-color: rgb(255, 255, 255);
+    border-style: ridge;
+    border: 9cap;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 500;
+    background-color: rgba(240, 248, 255, 0.515);
+}
+
+h2{
+    position: absolute;
+    box-sizing: border-box;
+    word-spacing: 2cqi;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    font-style: bold;
+}
+
+footer{
+    background-color: rgb(255, 255, 255);
+    font-style: bold;
+}
